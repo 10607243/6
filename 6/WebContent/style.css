@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.florencia {
+	color:#1338aa;
+	letter-spacing:30px;
+	font-size:50px;
+	font-weight:600;
+	text-align: right;
+}
+
+.primer {
+	font-size:20px;
+}
+
+.santa {
+	color: white;
+	background-color: #597c35;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.p {
+	font-size: 20px;
+}
